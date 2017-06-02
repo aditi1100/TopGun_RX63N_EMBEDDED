@@ -1,0 +1,25 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"Lab4" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\Lab4\Lab4\r_glyph\src\glyph\config.h" 
+"C:\WorkSpace\Lab4\Lab4\r_glyph\src\glyph\glyph.h" 
+"C:\WorkSpace\Lab4\Lab4\r_rspi_rx600\src\r_rspi_rx600.c" 
+"C:\WorkSpace\Lab4\Lab4\src\timer_adc.c" 
+"C:\WorkSpace\Lab4\Lab4\src\timer_adc.h" 
+"C:\WorkSpace\Lab4\Lab4\src\tutorial_main.c" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\Lab4\Lab4\r_glyph\src\glyph\config.h" 52 52 890 265 0 0 
+"C:\WorkSpace\Lab4\Lab4\r_glyph\src\glyph\glyph.h" 78 78 894 269 0 1 
+"C:\WorkSpace\Lab4\Lab4\r_rspi_rx600\src\r_rspi_rx600.c" 26 26 963 250 0 4 
+"C:\WorkSpace\Lab4\Lab4\src\timer_adc.c" 52 52 963 269 0 3 
+"C:\WorkSpace\Lab4\Lab4\src\timer_adc.h" 52 52 963 250 0 5 
+"C:\WorkSpace\Lab4\Lab4\src\tutorial_main.c" -8 -31 1083 412 1 2 
+[LOADED_PROJECTS]
+"Lab4" 
+[END]
