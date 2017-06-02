@@ -89,8 +89,8 @@ void main(void)
 
 	lcd_clear();
 	Set_Font_8_by_8();
-	lcd_display(LCD_LINE1, "Deekshith");
-	lcd_display(LCD_LINE2, "Shyaam");
+	lcd_display(LCD_LINE1, "Aditi");
+	lcd_display(LCD_LINE2, "Aparna");
 	cmt_stop(CHANNEL_0);
     
 	cmt_callback_set(CHANNEL_0, &NEW_PATTERN);
